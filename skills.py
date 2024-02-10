@@ -11,7 +11,7 @@ except:
 	pass
 
 def browser():
-	webbrowser.open('https://www.youtube.com/watch?v=POb02mjj2zE', new=2)
+	webbrowser.open('https://www.google.com/', new=2)
 
 
 
